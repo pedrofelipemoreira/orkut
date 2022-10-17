@@ -1,0 +1,47 @@
+.dois{
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.social_list  {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #313131;
+  }
+  
+  .social_list li {
+    float: right;
+  }
+  
+  .social_list li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 17px 25px;
+    text-decoration: none;
+    
+  }
+
+  .social_list li a:focus{
+    color: #ED2590;
+  }
+
+
+  
+  .social_list li a:hover {
+    background-color: #111;
+  }
+  
+  
+.social_list img{
+    margin-top: 15px;
+    margin-left: 70px;
+    float: left;
+  }
+
+  .social_list svg{
+    font-size: 30px;
+  }

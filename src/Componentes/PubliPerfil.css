@@ -1,0 +1,135 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;700&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+.tudo{
+  padding-top: 5%;
+  
+}
+
+.container_1 {
+  box-sizing: border-box;
+  margin-left: 8%;
+  margin-right: 5%;
+  width: 769px;
+  height: 300px;
+  left: 451px;
+  top: 187px;
+  background: #e6e6e6;
+  border: 2px solid #000000;
+  border-radius: 10px;
+}
+
+.text-container {
+  width: 196px;
+  height: 36px;
+  left: 491px;
+  top: 210px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  color: #000000;
+  background: #e6e6e6;
+  margin-left: 10px;
+}
+
+.text-container2 {
+  width: 280px;
+  height: 18px;
+  left: 488px;
+  margin-top: -20px;
+  background: #e6e6e6;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  color: #000000;
+}
+
+.text-bold {
+  width: 155px;
+  height: 18px;
+  left: 491px;
+  top: 304px;
+  margin-left: 10px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 18px;
+  background: #e6e6e6;
+  color: #000000;
+  margin-top: 20px;
+}
+
+.text-container3 {
+  width: 273px;
+  background: #e6e6e6;
+  height: 18px;
+  left: 491px;
+  top: 325px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 18px;
+  color: #000000;
+  margin-left: 9px;
+}
+
+.pessoas {
+  background: #e6e6e6;
+}
+
+.pessoa {
+  display: inline-block;
+  box-sizing: border-box;
+  width: 50px;
+  height: 50px;
+  left: 491px;
+  top: 356px;
+  border-radius: 50px;
+  background: #ffffff;
+  border: 2px solid #ed2590;
+  margin-right: 3px;
+}
+
+.text-container4 {
+  background: #e6e6e6;
+  margin-right: 300px;
+  color: #000000;
+}
+
+strong {
+  background: #e6e6e6;
+  color: #000000;
+}
+
+.container-2 {
+  margin-left: 8%;
+  margin-right: 5%;
+  box-sizing: border-box;
+  margin-top: 2%;
+  width: 769px;
+  height: 67px;
+  left: 449px;
+  top: 520px;
+  background: #e6e6e6;
+  border: 2px solid #000000;
+  border-radius: 10px;
+}
+
+.text-container5 {
+  background: #e6e6e6;
+  text-align: center;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 18px;
+  color: #000000;
+}

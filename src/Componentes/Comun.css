@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap');
+
+*{font-family: 'Poppins', sans-serif;}
+
+.princ h4{
+    margin-left: 5%;
+    padding-top: 5%;
+}
+
+
+
+.caixa{
+    background-color: #E6E6E6;
+    height: 400px;
+    margin-left: 5%;
+    margin-right: 5%;
+    color: #000000;
+    border-radius: 5px;
+    border: 2px  solid #000000;
+    margin-top: 8%;
+
+}
+
+
+.aba{
+    border-radius: 5px;
+    border: 1px solid #959595;
+}
+
+.aba ul{
+    list-style: none;
+    display: flex;
+    gap: 20px;    
+}
+
+.aba ul img{
+    margin-top: 5px;
+    border-radius: 50%;
+    border: 2px  solid #ED2590;
+}
+.aba p{
+    float: right;
+    margin-top: 5%;
+    margin-right: 10%;
+    color:#959595;
+}
+
+.conteudo ul{
+    list-style: none;
+    display: flex;
+    gap: 8%;
+}
+
+.conteudo p{
+    margin-top: 0;
+    font-size: smaller;
+    margin-left: 10%;
+    margin-right: 10%;
+    overflow-wrap: break-word;  
+    word-wrap: break-word; 
+    word-break: break-word;
+}
+
+.caixa_menor{
+    background-color: #E6E6E6;
+    height: 100px;
+    margin-left: 5%;
+    margin-right: 5%;
+    color: #000000;
+    border-radius: 5px;
+    border: 2px  solid #000000;
+    margin-top: 8%;
+}
+
+.caixa_menor{
+    border-radius: 5px;
+    border: 1px solid #959595;
+}
+
+.caixa_menor ul li{
+    margin: 0;
+}
+
+.caixa_menor ul{
+    list-style: none;
+    display: flex;
+    gap: 20px;    
+}
+
+.caixa_menor ul img{
+    margin-top: 5px;
+    border-radius: 50%;
+    border: 2px  solid #ED2590;
+}
+.caixa_menor p{
+    float: right;
+    margin-top: 5%;
+    margin-right: 10%;
+    color:#959595;
+}

@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap');
+
+*{font-family: 'Poppins', sans-serif;}
+
+.contorno{
+    position: fixed;
+    margin-top: 0.5px;
+    width: 20%;
+    height: 100%;
+    background-color: #2C2C2C;
+    color: #FFFFFF;
+}
+
+.perfil{
+    text-align: center;
+}
+
+.contorno img{
+    width: 60%;
+    margin-top: 15%;
+    border-radius: 50%;
+    border: 2px  solid #ED2590;
+}
+
+.status{
+    margin-top: 12%;
+    margin-left: 10%;
+}
+
+.disp {
+    font-size: smaller;
+    list-style-type:none ;
+    list-style-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 10 10"><circle fill="green" cx="7" cy="7" r="2"/></svg>');
+}
+
+.contorno p {
+    font-size: smaller;
+    margin-left: 10%;
+    margin-right: 10%;
+    overflow-wrap: break-word;  
+    word-wrap: break-word; 
+    word-break: break-word;
+}
+
+.opc{
+    margin-top: 15%;
+    font-size: 1.4rem;
+}

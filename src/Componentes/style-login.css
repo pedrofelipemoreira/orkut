@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap');
+
+* {
+  background-color: #2c2c2c;
+  font-family: 'Poppins', sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+img {
+  width: 200px;
+}
+
+.page-login {
+  font-size: 20px;
+  margin-top: 10%;
+}
+
+.text-white {
+  color: white;
+}
+
+.form-login {
+  width: 500px;
+  height: 30px;
+  margin-top: 10px;
+  border-radius: 10px;
+  padding: 5px;
+  border: solid 1px #000;
+  background-color: #e6e6e6;
+}
+
+.login {
+  width: 510px;
+  height: 40px;
+  background-color: #ed2590;
+  border-color: #ed2590;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.text-underline {
+  text-decoration: underline;
+  font-size: 18px;
+}
+
+.text-pink {
+  color: #ed2590;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.text-bottom {
+  padding-top: 10px;
+}
+
+.text-2 {
+  margin: 0px;
+}
+
+input::placeholder {
+  font-weight: normal;
+  font-size: 12px;
+  color: #2c2c2c;
+}
